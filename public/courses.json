@@ -1,0 +1,66 @@
+[
+    {
+        
+        "name":"Basic Fundamentals for Software Engineering",
+        "img":"https://i.ibb.co/2tJxDgd/download-4.png",
+        
+        "price":"470",
+        "author":"Jonathan Smith"
+    },
+    {
+    
+        "name":"Enhancing Adobe Photoshop CC 2023 Skills",
+        "img":"https://i.ibb.co/K9N2WsH/images-3.png",
+        "price":"420",
+        "author":"Michelle Williams"
+    },
+    {
+        
+        "name":"HTML CSS and Javascript for Web Developers",
+        "img":"https://i.ibb.co/hC0xNxX/images-4.png",
+        
+        "price":"480",
+        "author":"Jack Gallagan"
+    },
+    {
+       
+        "name":"Introducing to Programming with WordPress",
+        "img":"https://i.ibb.co/pPSjj59/download-8.png",
+        
+        "price":"490",
+        "author":"Christinne Smith"
+    },
+    {
+       
+        "name":"Introducing to Programming with Data Structure",
+        "img":"https://i.ibb.co/k4HVsfK/download-9.png",
+        
+        "price":"550",
+        "author":"Michelle Williams"
+    },
+    {
+       
+        "name":"Introducing to Programming with c/c++",
+        "img":"https://i.ibb.co/wrW7jNy/images-5.png",
+        
+        "price":"780",
+        "author":"Jack Gallagan"
+      
+    },
+    {
+       
+        "name":"Introducing to Programming with Java",
+        "img":"https://i.ibb.co/tHzt4tj/download-7.png",
+        
+        "price":"780",
+        "author":"Michelle Williams"
+    },
+    {
+       
+        "name":"Introducing to Programming with Python",
+        "img":"https://i.ibb.co/vq1zTBN/images-6.png",
+        
+        "price":"780",
+        "author":"Christinne Smith"
+    }
+]
